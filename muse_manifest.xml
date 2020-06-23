@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="1test.org" resolutions="1x" timestamp="1592924932502">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="1test.org" resolutions="1x" timestamp="1592943880757">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="167807495" ref="index"/>
-    <file name="nomq_index.css" crc="261419200" ref="index"/>
+    <file name="index.css" crc="3890665706" ref="index"/>
+    <file name="nomq_index.css" crc="78672553" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -223,5 +223,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4008898304" seo="true" mt="1592924755079" redirect="true"/>
+  <file name="index.html" crc="4247566082" seo="true" mt="1592943843003" redirect="true"/>
 </manifest>
