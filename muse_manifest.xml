@@ -1,0 +1,227 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="1test.org" resolutions="1x" timestamp="1592924932502">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="167807495" ref="index"/>
+    <file name="nomq_index.css" crc="261419200" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="обложка.png" crc="4110266847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="обложка980x552.png" crc="112318022" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 792x428.jpg" crc="340904899" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="вставленное изображение 782x423.jpg" crc="3968545736" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 788x426.jpg" crc="523873021" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1234-crop-u4112.jpg" crc="406773628" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u4329.jpg" crc="333769726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u5484.jpg" crc="61259023" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u5559.jpg" crc="388955087" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u5634.jpg" crc="4034151616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u5709.jpg" crc="172526620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u5784.jpg" crc="224716746" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7-crop-u5859.jpg" crc="4089577520" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8-crop-u5934.jpg" crc="268656177" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1234-crop-u41122.jpg" crc="4069859269" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u43292.jpg" crc="219586547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u54842.jpg" crc="4123085084" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u55592.jpg" crc="255376066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u56342.jpg" crc="295895130" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u57092.jpg" crc="167824445" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u57842.jpg" crc="291481518" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7-crop-u58592.jpg" crc="3874063727" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8-crop-u59342.jpg" crc="3926513673" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1234-crop-u41123.jpg" crc="105095512" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u43293.jpg" crc="4193326883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u54843.jpg" crc="4034408325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u55593.jpg" crc="3917203506" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u56343.jpg" crc="4267229236" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u57093.jpg" crc="32297909" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u57843.jpg" crc="4200297691" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7-crop-u58593.jpg" crc="4035776339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8-crop-u59343.jpg" crc="189388704" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="обложка768x433.png" crc="4250953563" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1234-crop-u41124.jpg" crc="113466089" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u43294.jpg" crc="499768438" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u54844.jpg" crc="4150172686" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u55594.jpg" crc="133583948" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u56344.jpg" crc="3966149439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u57094.jpg" crc="503914315" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u57844.jpg" crc="260081856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7-crop-u58594.jpg" crc="4102075454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8-crop-u59344.jpg" crc="490482351" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="обложка480x271.png" crc="3900647289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1234-crop-u41125.jpg" crc="4110514370" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u43295.jpg" crc="4156558406" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u54845.jpg" crc="296540849" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u55595.jpg" crc="3902963888" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u56345.jpg" crc="170892473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u57095.jpg" crc="4221069979" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u57845.jpg" crc="535469133" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7-crop-u58595.jpg" crc="352028987" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8-crop-u59345.jpg" crc="130115138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="обложка320x181.png" crc="4248028828" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1234-crop-u41126.jpg" crc="516581989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u43296.jpg" crc="3945422604" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u54846.jpg" crc="3935243293" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u55596.jpg" crc="4113122037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u56346.jpg" crc="3864082424" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u57096.jpg" crc="4098429664" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u57846.jpg" crc="272703867" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7-crop-u58596.jpg" crc="3860038726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8-crop-u59346.jpg" crc="4170572764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4008898304" seo="true" mt="1592924755079" redirect="true"/>
+</manifest>
